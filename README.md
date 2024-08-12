@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-fix-syntax-error-use-system-words
 
-## Text
+## Fix name of variables to correct
 
 ## Criteria:
 
