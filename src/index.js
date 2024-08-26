@@ -1,5 +1,5 @@
-let do = prompt('Enter your name');
-const if = prompt('Enter your last name');
-var while = prompt('Enter your age');
+let userName = prompt('Enter your name');
+const userLastName = prompt('Enter your last name');
+var userAge = prompt('Enter your age');
 
-alert(`Hi ${do} ${if}, your age is ${while}`);
+alert(`Hi ${userName} ${userLastName}, your age is ${userAge}`);
